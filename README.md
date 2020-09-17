@@ -10,7 +10,7 @@ Elegant Age Verification is a responsive age restriction plugin for WordPress th
 
 The detailed documentation is available at the following link: [Documentation of Elegant Age Verification](https://age-verification-wordpress-plugin.jablonczay.com/documentation/)
 
-#### :link: Demo: [Usage Examples](https://rawcdn.githack.com/jablonczay/code-box-copy/master/index.html)
+#### :link: Demo: [Usage Examples](https://age-verification-wordpress-plugin.jablonczay.com/)
 #### :link: Get Elegant Age Verification WordPress plugin: [Buy it now on CodeCanyon](https://1.envato.market/ag5YM)
 
 ## Other Projects

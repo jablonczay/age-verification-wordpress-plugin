@@ -1,6 +1,6 @@
 [![Author](https://img.shields.io/badge/author-jablonczay-lightgrey.svg?colorB=9900cc)](https://jablonczay.com/)
 
-# Elegant Age Verification
+# Elegant Age Verification - Responsive age-gate plugin for WordPress
 
 ### What is this?
 

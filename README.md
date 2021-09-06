@@ -15,7 +15,6 @@ The detailed documentation is available at the following link: [Documentation of
 
 ## Other Projects
 
-- [Elegant Age Verification – Responsive age-gate plugin for WordPress](https://1.envato.market/ag5YM)
 - [GDPR Cookie Law – Responsive JavaScript GDPR Consent Plugin](https://1.envato.market/qRo6n)
 - [GDPR Cookie Law – GDPR Cookie Compliance jQuery Plugin](https://1.envato.market/50vqn)
 - [Elegant Scroll to Top – Back to Top JavaScript Plugin](https://1.envato.market/mg2my1)
